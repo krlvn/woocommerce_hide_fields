@@ -1,0 +1,1 @@
+# woocommerce_hide_fields
